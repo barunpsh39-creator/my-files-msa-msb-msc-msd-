@@ -1,0 +1,4 @@
+#WSB1
+author=서준
+program=WordStar-like
+year=2026

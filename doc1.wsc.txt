@@ -1,0 +1,4 @@
+#WSC1
+font=classic
+size=12
+align=left
